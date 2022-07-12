@@ -12,18 +12,15 @@ public class Main{
     System.out.println(miCoche.puertas);
   }
   
-  public statis int SumaVal (int a, int b, int){
+  public static int SumaVal (int a, int b, int c){
     return a+b+c;
   }
-  
 }
 
  public class Coche{
    int puertas=0;
   
-  
    public void PuertaMas(){
       this.puertas++;
-  }
-
+   }
 }
