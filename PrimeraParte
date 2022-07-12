@@ -1,0 +1,13 @@
+public class Main{
+  public static void Main(String[] args){
+    int val1 = 2;
+    int val2 = 3;
+    int val3 = 4;
+    
+    SumaVal(val1, val2, val3);
+  }
+  
+  public statis int SumaVal (int a, int b, int){
+    return a+b+c;
+  }
+}
